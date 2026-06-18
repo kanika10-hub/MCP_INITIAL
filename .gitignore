@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+.venv/
+venv/
+.env
+.env.*
+.cursor/
+.pytest_cache/
+>>>>>>> 0f7597d88950294c7336642aa0bdefd26a9a4ee5
