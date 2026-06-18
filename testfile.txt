@@ -1,0 +1,5 @@
+Hello MCP
+
+I am learning MCP.
+
+This file was read through an MCP tool.
